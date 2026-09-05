@@ -1,5 +1,7 @@
 Ziel des Projekts war es, mittels quantitativer Inhaltsanalyse mit BERT die Themenschwerpunktsetzung von Kandidierenden
-auf Instagram in der Phase des Bundestags-Wahlkampfes zu analysieren
+auf Instagram in der Phase des Bundestags-Wahlkampfes zu analysieren.
+
+Grobes Vorgehen: https://social-media-lab.net/
 
 Beschreibung der Ordner:
 1. ocr: Texte aus Posts extrahieren
